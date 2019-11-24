@@ -2,3 +2,5 @@ this is story
 
 update story from experimental branch
 
+Hi Mricky, Saya merubah code dan minta untuk digabungkan
+
